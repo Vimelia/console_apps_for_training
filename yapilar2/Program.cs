@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
-namespace YapilarSwitch
+namespace yapilar2
 {
     class Program{
         public static void Main(string[] args)
