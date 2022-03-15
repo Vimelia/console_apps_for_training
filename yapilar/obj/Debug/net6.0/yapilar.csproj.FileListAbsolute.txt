@@ -1,0 +1,15 @@
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\yapilar\bin\Debug\net6.0\yapilar.exe
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\yapilar\bin\Debug\net6.0\yapilar.deps.json
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\yapilar\bin\Debug\net6.0\yapilar.runtimeconfig.json
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\yapilar\bin\Debug\net6.0\yapilar.dll
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\yapilar\bin\Debug\net6.0\ref\yapilar.dll
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\yapilar\bin\Debug\net6.0\yapilar.pdb
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\yapilar\obj\Debug\net6.0\yapilar.csproj.AssemblyReference.cache
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\yapilar\obj\Debug\net6.0\yapilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\yapilar\obj\Debug\net6.0\yapilar.AssemblyInfoInputs.cache
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\yapilar\obj\Debug\net6.0\yapilar.AssemblyInfo.cs
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\yapilar\obj\Debug\net6.0\yapilar.csproj.CoreCompileInputs.cache
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\yapilar\obj\Debug\net6.0\yapilar.dll
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\yapilar\obj\Debug\net6.0\ref\yapilar.dll
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\yapilar\obj\Debug\net6.0\yapilar.pdb
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\yapilar\obj\Debug\net6.0\yapilar.genruntimeconfig.cache
