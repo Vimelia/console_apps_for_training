@@ -1,0 +1,15 @@
+C:\Users\vahid\source\repos\consoleapp2\bin\Debug\net6.0\consoleapp2.exe
+C:\Users\vahid\source\repos\consoleapp2\bin\Debug\net6.0\consoleapp2.deps.json
+C:\Users\vahid\source\repos\consoleapp2\bin\Debug\net6.0\consoleapp2.runtimeconfig.json
+C:\Users\vahid\source\repos\consoleapp2\bin\Debug\net6.0\consoleapp2.dll
+C:\Users\vahid\source\repos\consoleapp2\bin\Debug\net6.0\ref\consoleapp2.dll
+C:\Users\vahid\source\repos\consoleapp2\bin\Debug\net6.0\consoleapp2.pdb
+C:\Users\vahid\source\repos\consoleapp2\obj\Debug\net6.0\consoleapp2.csproj.AssemblyReference.cache
+C:\Users\vahid\source\repos\consoleapp2\obj\Debug\net6.0\consoleapp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vahid\source\repos\consoleapp2\obj\Debug\net6.0\consoleapp2.AssemblyInfoInputs.cache
+C:\Users\vahid\source\repos\consoleapp2\obj\Debug\net6.0\consoleapp2.AssemblyInfo.cs
+C:\Users\vahid\source\repos\consoleapp2\obj\Debug\net6.0\consoleapp2.csproj.CoreCompileInputs.cache
+C:\Users\vahid\source\repos\consoleapp2\obj\Debug\net6.0\consoleapp2.dll
+C:\Users\vahid\source\repos\consoleapp2\obj\Debug\net6.0\ref\consoleapp2.dll
+C:\Users\vahid\source\repos\consoleapp2\obj\Debug\net6.0\consoleapp2.pdb
+C:\Users\vahid\source\repos\consoleapp2\obj\Debug\net6.0\consoleapp2.genruntimeconfig.cache
