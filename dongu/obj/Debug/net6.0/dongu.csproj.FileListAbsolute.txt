@@ -1,0 +1,15 @@
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\dongu\obj\Debug\net6.0\dongu.csproj.AssemblyReference.cache
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\dongu\obj\Debug\net6.0\dongu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\dongu\obj\Debug\net6.0\dongu.AssemblyInfoInputs.cache
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\dongu\obj\Debug\net6.0\dongu.AssemblyInfo.cs
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\dongu\obj\Debug\net6.0\dongu.csproj.CoreCompileInputs.cache
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\dongu\bin\Debug\net6.0\dongu.exe
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\dongu\bin\Debug\net6.0\dongu.deps.json
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\dongu\bin\Debug\net6.0\dongu.runtimeconfig.json
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\dongu\bin\Debug\net6.0\dongu.dll
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\dongu\bin\Debug\net6.0\ref\dongu.dll
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\dongu\bin\Debug\net6.0\dongu.pdb
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\dongu\obj\Debug\net6.0\dongu.dll
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\dongu\obj\Debug\net6.0\ref\dongu.dll
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\dongu\obj\Debug\net6.0\dongu.pdb
+C:\Users\vahid\OneDrive\Masaüstü\Vimelia\WebProject\kodluyoruz\dongu\obj\Debug\net6.0\dongu.genruntimeconfig.cache
